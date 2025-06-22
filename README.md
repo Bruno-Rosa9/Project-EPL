@@ -1,9 +1,9 @@
-# Pythagorean Expectation in the Premier League
+# Expectativa Pitagórica na Premier League
 
-This project focuses on applying Pythagorean Expectation, a concept originally used in baseball, to analyze the performance of Premier League clubs. The idea is to estimate how many points a team should have scored based on goals scored and conceded, comparing this with the actual score.
+Este projeto tem como foco aplicar a Expectativa Pitagórica, um conceito originalmente usado no beisebol, para analisar o desempenho de clubes da Premier League. A ideia é estimar quantos pontos um time deveria ter feito com base nos gols marcados e sofridos, comparando com a pontuação real.
 
-## What is Pythagorean Expectation?
+##  O que é Expectativa Pitagórica?
 
-The formula estimates a team's expected performance based on its goals scored (GF) and goals conceded (GA):
+A fórmula estima a performance esperada de um time com base em seus gols marcados (GF) e gols sofridos (GA):
 
-Expected Points = (Goals Scored) / ((Goals Scored) + (Goals Conceded))
+Pontos Esperados = (Gols Marcados) / ((Gols Marcados) + (Gols Sofridos))
